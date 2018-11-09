@@ -7,6 +7,25 @@ An investigation into the Anscombe's Quartet dataset
 
 ### Project plan
 
+#### Updated Project Plan Friday 09/11/2018
+
+Friday
+* Background of the dataset
+* Why the dataset is interesting
+
+Saturday
+* Clean up code
+* Clean up descriptions ( add in proper referencing, etc)
+* Finish Readme
+* Add URL to Moodle page
+* Review entire assignment (includes reading over PDF of assignment and rewatching video to ensure nothing has been missed)
+
+Sunday
+* Contingency day - Aim to have all work completed before this day
+
+
+#### Previous Project Plan
+
 Project contains 4 main sections:
 * Background of the dataset
 * Plot the dataset
