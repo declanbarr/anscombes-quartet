@@ -10,8 +10,8 @@ An investigation into the Anscombe's Quartet dataset
 #### Updated Project Plan Friday 09/11/2018
 
 Friday
-* Background of the dataset
-* Why the dataset is interesting
+* ~~Background of the dataset~~
+* ~~Why the dataset is interesting~~
 
 Saturday
 * Clean up code
