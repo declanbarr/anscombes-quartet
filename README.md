@@ -1,9 +1,31 @@
 # anscombes-quartet
-An investigation into the Anscombe's Quartet dataset
+An investigation into the Anscombe's Quartet datasets.
 
-### Explanation of what is contained in this repository
+### What's contained in this repository
+
+This repository contains the following files:
+
+* anscombes-quartet.ipynb 
+* Francis_Anscombe.jpeg
+* .gitignore
+* LICENSE
+* README.md
+
+The anscombes-quartet.ipynb file contains the analyses that was carried out into the Anscombe's Quartet datasets/
 
 ### How to run the Jupyter Notebook
+
+For this project I used Anaconda version 5.3 and Python version 3.6.7. Anaconda is a free and open source distribution of Python used for data science.[1] Anaconda provides a number of libraries. For this project I will be using the following libraries: Pandas, NumPy and Matplotlib.
+
+The datasets can be found [here](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/anscombe.csv). It isn't necessary to download the csv file in order to view the analyses that I've done as the script will read the csv file from the URL in the link given.
+
+The anscombe-quartet.ipynb file can be viewed in full on GitHub or can be downloaded and run on your PC. To run on your own machine follow these steps:
+
+* Download the raw .ipynb file https://raw.githubusercontent.com/declanbarr/anscombes-quartet/master/anscombes-quartet.ipynb
+* On the command line change directory into the directory where you saved the ipynb file
+* Start jupyter notebook by typing: jupyter notebook
+
+If you wish to view the picture of Francis Anscombe in the notebook then you need to save the .jpeg file to the same folder as the ipynb file.
 
 ### Project plan
 
@@ -52,3 +74,8 @@ __Monday 5th to Friday 9th (Evenings only due to work - but may be able to take 
 __Saturday 10th (Full day) 8 hours = 3 hours__
 
 Finish assignment
+
+#### References
+
+[1] Wikipedia. Anaconda (Python distribution).
+[https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)]
